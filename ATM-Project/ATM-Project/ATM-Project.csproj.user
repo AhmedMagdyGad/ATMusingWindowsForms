@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Balance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BalanceAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangePIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangePINAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChooseCardOrWallets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChooseLanguage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Deposit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepositAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepositForWallet..cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepositForWalletAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FastCash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FastCashAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FinalPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LastTransactionAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LastTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LockedScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginWithoutCards.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPageAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPageForWallets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPageForWalletsAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StartPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Withdraw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WithdrawAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WithdrawForWallet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WithdrawForWalletAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
